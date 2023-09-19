@@ -4,6 +4,6 @@ Laboratorio para generación de codigos QR usando .Net 6 y libreria QRCoder, gua
 
 ## Pre-requisitos
 
--Una suscripción a Azure.
--Una cuenta de Azure Storage.
--Remplazar ConnectionString de AzureStorage dentro del fichero `appsettings.json` con su propia cadena de conexión.
+- Una suscripción a Azure.
+- Una cuenta de Azure Storage.
+- Remplazar ConnectionString de AzureStorage dentro del fichero `appsettings.json` con su propia cadena de conexión.
